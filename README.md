@@ -51,7 +51,7 @@
 ### 📫 Kontak
 
 - 📧 Email: [nanu@nanugroup.com](mailto:nanu@example.com)  
-- 💬 WA: [wa.me/62xxxxxxxxxx](https://wa.me/62877750124895)  
+- 💬 WA: [wa.me/6287750124895(https://wa.me/62877750124895)  
 - 🌐 Web/blog : [nanugroup.com](nanugroup.com)
 
 ---
