@@ -23,10 +23,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Livewire-blueviolet?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MikroTik-darkgreen?style=flat&logo=router&logoColor=white" />
 </p>
 
 ---
