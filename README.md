@@ -43,7 +43,7 @@
 ### 🔥 Animasi Teks
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Nanu!;Programmer+RS+dengan+gaya+%F0%9F%92%A5;Livewire+%7C+Laravel+%7C+Tailwind;Reels+juga+boleh+lah+sekali-kali" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Nanu!;Programmer+dengan+gaya+%F0%9F%92%A5;Livewire+%7C+Laravel+%7C+Tailwind;Reels+juga+boleh+lah+sekali-kali" />
 </p>
 
 ---
