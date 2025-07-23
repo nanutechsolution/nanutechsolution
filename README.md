@@ -11,11 +11,11 @@
 
 ### ✨ Tentang Saya
 
-- 🔨 Saat ini lagi ngulik projek freelencer
-- 📦 Stack favorit: `Laravel`, `Livewire`, `Alpine.js`, `Tailwind`, `MySQL`, `MikroTik`
-- 👨‍🌾 Lulusan pertanian, tapi sekarang nyangkulnya di terminal
-- 🎯 Tujuan: bikin sistem yang rapi, efisien, dan *gak nyusahin user*
-- 🎥 Bikin Reels juga, dari kehidupan programmer sampai realita
+- 🔧 Developer dengan skill Laravel, Java, Flutter, Livewire, dan Tailwind
+- 🧠 Belajar sambil berkarya — dari backend, frontend, sampai UI/UX
+- 💼 Terbuka untuk kerja freelance, projek kolaborasi, atau bangun produk bareng
+- 🔥 Di-PHK bukan akhir — justru titik balik untuk ngulik lebih dalam
+- 🎥 Kadang bikin Reels juga, karena ngoding juga butuh seni 😎
 
 ---
 
