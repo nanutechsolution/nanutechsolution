@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Nanu's Banner" width="100%" />
+<img src="https://github.com/radianus/radianus/blob/main/banner.png" alt="Nanu's Banner" width="100%" />
 
 <h1 align="center">Hi, saya Nanu 👋</h1>
 
