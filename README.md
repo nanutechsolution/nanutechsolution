@@ -4,8 +4,7 @@
 <h1 align="center">Hi, saya Nanu 👋</h1>
 
 <p align="center">
-  💻 Programmer | 💊 Sistem Rumah Sakit | 📡 MikroTik Enthusiast <br>
-  🎥 Content Creator in Progress | 💼 Freelancer Siap Tempur
+  💻 Fullstack Developer | 🧠 Pembelajar Seumur Hidup | 🚀 Ex-karyawan, Sekarang Bebas Berkarya
 </p>
 
 ---
