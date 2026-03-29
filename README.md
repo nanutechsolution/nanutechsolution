@@ -1,126 +1,110 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/Radianus/Radianus/main/banner.png" alt="Banner" width="100%" /> 
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" width="100%" />
 
 <h1 align="center">Hi, saya Nanu 👋</h1>
 
 <p align="center">
-  💻 Fullstack Developer | 🧠 Pembelajar Seumur Hidup | 🚀 Ex-karyawan, Sekarang Bebas Berkarya
+💻 Fullstack Developer • 🏥 System Builder (SIAKAD & RS) • 🚀 Freelancer Ready  
+<br>
+🔥 Dari PHK → Bangun Produk & Solusi Nyata
 </p>
 
 ---
 
-### ✨ Tentang Saya
+## ✨ Tentang Saya
 
-- 🔧 Developer dengan skill Laravel, Java, Flutter, Livewire, dan Tailwind
-- 🧠 Belajar sambil berkarya — dari backend, frontend, sampai UI/UX
-- 💼 Terbuka untuk kerja freelance, projek kolaborasi, atau bangun produk bareng
-- 🔥 Di-PHK bukan akhir — justru titik balik untuk ngulik lebih dalam
-- 🎥 Kadang bikin Reels juga, karena ngoding juga butuh seni 😎
+Saya adalah developer yang fokus membangun **sistem yang benar-benar dipakai**, bukan sekadar project pajangan.
+
+* 🔧 Spesialis: Laravel, Livewire, Filament, Tailwind
+* 🏥 Saat ini mengembangkan sistem rumah sakit & akademik
+* 🧠 Belajar dari real problem, bukan teori doang
+* 💼 Terbuka untuk freelance & kolaborasi
+* 🎯 Misi: bikin sistem yang simpel, cepat, dan gak nyusahin user
+
+> “Code itu bukan sekadar jalan, tapi harus menyelesaikan masalah.”
 
 ---
 
-### 🛠️ Tools & Teknologi
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Livewire-blueviolet?style=flat&logo=laravel" />
+<img src="https://img.shields.io/badge/-Filament-ffaa00?style=flat" />
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MikroTik-darkgreen?style=flat" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Project Fokus
+
+### 🏫 Sistem Akademik (SIAKAD)
+
+* Manajemen mahasiswa, KRS, kelas, dosen
+* Struktur scalable untuk audit DIKTI
+* Role-based access (Admin, Prodi, Fakultas)
+
+### 🏥 Sistem Rumah Sakit
+
+* Pendaftaran pasien
+* Kasir & laporan keuangan
+* Bridging BPJS (ongoing)
+* Dashboard operasional
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Animasi Teks
+## 🎥 Sedikit Konten
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Nanu!;Programmer+dengan+gaya+%F0%9F%92%A5;Livewire+%7C+Laravel+%7C+Tailwind;Reels+juga+boleh+lah+sekali-kali" />
-</p>
+Saya juga dokumentasikan perjalanan sebagai programmer:
 
----
-
-### 📫 Kontak
-
-- 📧 Email: [nanu@nanugroup.com](mailto:nanu@example.com)  
-- 🌐 Web/blog : [nanugroup.com](nanugroup.com)
+* Realita ngoding
+* Cerita di balik sistem RS & kampus
+* Insight dunia IT
 
 ---
 
-> *"Bug hanyalah fitur yang belum sempat dijelaskan ke atasan." – Nanu, 2025*
+## 💼 Open for Opportunity
 
-<!-- Banner -->
-<img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Nanu's Banner" width="100%" />
+Saya tersedia untuk:
 
-<h1 align="center">Hi, saya Nanu 👋</h1>
+* 🔧 Freelance project (Laravel / Sistem Informasi)
+* 🤝 Kolaborasi startup / produk digital
+* 🏗️ Pembuatan sistem kampus / rumah sakit
 
-<p align="center">
-  💻 Programmer | 💊 Sistem Rumah Sakit | 📡 MikroTik Enthusiast <br>
-  🎥 Content Creator in Progress | 💼 Freelancer Siap Tempur
-</p>
+📩 Hubungi:
 
----
-
-### ✨ Tentang Saya
-
-- 🔨 Saat ini lagi ngulik sistem rumah sakit (rekapan kasir, bridging BPJS, pendaftaran pasien, dsb.)
-- 📦 Stack favorit: `Laravel`, `Livewire`, `Alpine.js`, `Tailwind`, `MySQL`, `MikroTik`
-- 👨‍🌾 Lulusan pertanian, tapi sekarang nyangkulnya di terminal
-- 🎯 Tujuan: bikin sistem yang rapi, efisien, dan *gak nyusahin user*
-- 🎥 Bikin Reels juga, dari kehidupan programmer sampai realita RS
+* WhatsApp: https://wa.me/6287750124895
+* Email: [nanu@nanugroup.com](mailto:nanu@nanugroup.com)
 
 ---
 
-### 🛠️ Tools & Teknologi
+## 🧡 Support & Donasi
 
-<p>
-  <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Livewire-blueviolet?style=flat&logo=laravel" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MikroTik-darkgreen?style=flat&logo=router&logoColor=white" />
-</p>
+Kalau project ini membantu atau menginspirasi Anda, Anda bisa mendukung pengembangannya:
 
----
+👉 https://saweria.co/nanutechsolution
 
-### 📊 GitHub Stats
+Dukungan Anda akan digunakan untuk:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+* Pengembangan fitur baru
+* Maintenance sistem
+* Eksperimen produk baru 🚀
 
 ---
 
-### 🔥 Animasi Teks
+## ☕ Fun Fact
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Nanu!;Programmer+RS+dengan+gaya+%F0%9F%92%A5;Livewire+%7C+Laravel+%7C+Tailwind;Reels+juga+boleh+lah+sekali-kali" />
-</p>
-
----
-
----
-### 🛡️ Kontak, Kontribusi & Donasi
-Jika Anda ingin berkontribusi atau memiliki pertanyaan mengenai sistem ini, silakan hubungi pengembang melalui:
-
-- **WhatsApp**: [087750124895](https://wa.me/6287750124895)
-- **Dukungan / Donasi**:  
-Jika sistem ini membantu Anda dan ingin mendukung pengembangannya, Anda dapat memberikan apresiasi melalui **Saweria**:  
-
-[![Dukung Saya di Saweria](https://img.shields.io/badge/Dukung-Saweria-orange?style=flat-square)](https://saweria.co/nanutechsolution)  
-
-> Setiap kontribusi sangat berarti untuk keberlanjutan pengembangan fitur-fitur baru.
-
----
-
-> *"Bug hanyalah fitur yang belum sempat dijelaskan ke atasan." – Nanu, 2025*
-
+> “Bug hanyalah fitur yang belum sempat dijelaskan ke atasan.”
+> — Nanu, 2025
