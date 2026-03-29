@@ -108,11 +108,17 @@
 
 ---
 
-### 📫 Kontak
+---
+### 🛡️ Kontak, Kontribusi & Donasi
+Jika Anda ingin berkontribusi atau memiliki pertanyaan mengenai sistem ini, silakan hubungi pengembang melalui:
 
-- 📧 Email: [nanu@example.com](mailto:nanu@example.com)  
-- 💬 WA: [wa.me/62xxxxxxxxxx](https://wa.me/62xxxxxxxxxx)  
-- 🌐 Web/blog (kalau ada): [example.com](https://example.com)
+- **WhatsApp**: [082247459503](https://wa.me/6287750124895)
+- **Dukungan / Donasi**:  
+Jika sistem ini membantu Anda dan ingin mendukung pengembangannya, Anda dapat memberikan apresiasi melalui **Saweria**:  
+
+[![Dukung Saya di Saweria](https://img.shields.io/badge/Dukung-Saweria-orange?style=flat-square)](https://saweria.co/nanutechsolution)  
+
+> Setiap kontribusi sangat berarti untuk keberlanjutan pengembangan fitur-fitur baru.
 
 ---
 
