@@ -7,22 +7,22 @@
 <p align="center">
 💻 Fullstack Developer • 🏥 System Builder (SIAKAD & RS) • 🚀 Freelancer Ready  
 <br>
-🔥 Dari PHK → Bangun Produk & Solusi Nyata
+Membangun sistem yang efisien, scalable, dan benar-benar dipakai
 </p>
 
 ---
 
 ## ✨ Tentang Saya
 
-Saya adalah developer yang fokus membangun **sistem yang benar-benar dipakai**, bukan sekadar project pajangan.
+Saya adalah developer yang fokus membangun **sistem yang menyelesaikan masalah nyata**, bukan sekadar tampilan.
 
 * 🔧 Spesialis: Laravel, Livewire, Filament, Tailwind
-* 🏥 Saat ini mengembangkan sistem rumah sakit & akademik
-* 🧠 Belajar dari real problem, bukan teori doang
+* 🏥 Fokus pada sistem rumah sakit & akademik
+* 🧠 Terbiasa mengerjakan dari backend sampai UI/UX
 * 💼 Terbuka untuk freelance & kolaborasi
-* 🎯 Misi: bikin sistem yang simpel, cepat, dan gak nyusahin user
+* 🎯 Tujuan: sistem yang rapi, cepat, dan mudah digunakan
 
-> “Code itu bukan sekadar jalan, tapi harus menyelesaikan masalah.”
+> “Sistem yang baik bukan yang kompleks, tapi yang dipakai setiap hari tanpa keluhan.”
 
 ---
 
@@ -39,19 +39,19 @@ Saya adalah developer yang fokus membangun **sistem yang benar-benar dipakai**, 
 
 ---
 
-## 🚀 Project Fokus
+## 🚀 Fokus Project
 
 ### 🏫 Sistem Akademik (SIAKAD)
 
 * Manajemen mahasiswa, KRS, kelas, dosen
-* Struktur scalable untuk audit DIKTI
+* Struktur scalable & siap pengembangan jangka panjang
 * Role-based access (Admin, Prodi, Fakultas)
 
 ### 🏥 Sistem Rumah Sakit
 
 * Pendaftaran pasien
 * Kasir & laporan keuangan
-* Bridging BPJS (ongoing)
+* Integrasi layanan (bridging BPJS – ongoing)
 * Dashboard operasional
 
 ---
@@ -65,13 +65,13 @@ Saya adalah developer yang fokus membangun **sistem yang benar-benar dipakai**, 
 
 ---
 
-## 🎥 Sedikit Konten
+## 🎥 Konten & Dokumentasi
 
-Saya juga dokumentasikan perjalanan sebagai programmer:
+Saya juga membagikan insight seputar:
 
-* Realita ngoding
-* Cerita di balik sistem RS & kampus
-* Insight dunia IT
+* Proses membangun sistem nyata
+* Tantangan di dunia IT (kampus & rumah sakit)
+* Tips praktis pengembangan aplikasi
 
 ---
 
@@ -80,7 +80,7 @@ Saya juga dokumentasikan perjalanan sebagai programmer:
 Saya tersedia untuk:
 
 * 🔧 Freelance project (Laravel / Sistem Informasi)
-* 🤝 Kolaborasi startup / produk digital
+* 🤝 Kolaborasi produk digital
 * 🏗️ Pembuatan sistem kampus / rumah sakit
 
 📩 Hubungi:
@@ -90,21 +90,17 @@ Saya tersedia untuk:
 
 ---
 
-## 🧡 Support & Donasi
+## 🧡 Support
 
-Kalau project ini membantu atau menginspirasi Anda, Anda bisa mendukung pengembangannya:
+Jika project ini membantu atau memberikan manfaat, Anda bisa mendukung pengembangannya:
 
 👉 https://saweria.co/nanutechsolution
 
-Dukungan Anda akan digunakan untuk:
-
-* Pengembangan fitur baru
-* Maintenance sistem
-* Eksperimen produk baru 🚀
+Dukungan akan digunakan untuk pengembangan fitur, maintenance, dan eksperimen produk baru 🚀
 
 ---
 
-## ☕ Fun Fact
+## ☕ Catatan
 
 > “Bug hanyalah fitur yang belum sempat dijelaskan ke atasan.”
-> — Nanu, 2025
+> — Nanu
