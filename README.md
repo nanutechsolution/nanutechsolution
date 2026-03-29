@@ -86,7 +86,7 @@ Saya tersedia untuk:
 📩 Hubungi:
 
 * WhatsApp: https://wa.me/6287750124895
-* Email: [nanu@nanugroup.com](mailto:nanu@nanugroup.com)
+* Email: [ranusate151126@gmail.com](mailto:ranusate151126@gmail.com)
 
 ---
 
